@@ -3,7 +3,7 @@
 
     Vector Chords.h
     Created: 3 Nov 2022 3:53:26pm
-    Author:  B149642
+    Author:  Andrew McGillivray
 
   ==============================================================================
 */
